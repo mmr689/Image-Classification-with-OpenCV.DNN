@@ -3,6 +3,7 @@
 This repository wants to test how to **classify images** using `OpenCV.dnn()`.
 
 The NN models tested are:
+
 **Caffe**:
 * AlexNet.
 * GoogleNet (Inception V1).
